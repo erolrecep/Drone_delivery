@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8906878c055ac7bb4e5f434596d24c9e080d14be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARUtils/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f625dfe501438544d03ceec0e639761d8e084ac">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARUtils-3.10.1_e044ed1b287030bb1e871b4df2a0717373b90014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARController/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1228ca2f25d94dae69d2c4c641f34b101d484e10">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARController-3.10.1_a2778d8e001fe45f29214f327d30294118ea274e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARStream2/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7f032f7d3928127bb3f04bcd0363dbffd569ce8">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARStream2-3.10.1_bed4b8c6fffd03ae6018aba29d412cde16115302/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d11843cfd41eff69f52956add7ea06774b3bf731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_18d55a529759a92e12edb31aded31e1654504140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_5593d5a619c43c8b410854cc39b8fe12ef1ec4c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARUpdater/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b7df10ac2ab0b68e5b10a34c873d405b5bd94b3a">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARUpdater-3.10.1_4e3ee3a5e9f8390a6733ae2dfed2f145f546f031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_fe64b826aaa7485ff6d342d0ece50344f71d13b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_a6767dee49636133d5c4a9ec52d17bdf920d6d05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARCommands/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0ad01d8a159d4ed38023b00efe686cd79c85af2">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARCommands-3.10.1_d3dd95dd4e27130c23b8537e828e27d130142c86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARNetwork/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45a005da5f59ed11e077ef97efe86701e13fe76f">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARNetwork-3.10.1_8e765a057259a920cfdae9f33f9a9b1d9a49aaa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_501c02a915dea40a3a492800478945cf40511c6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fce96f14b2226a62028ef1cc0286a02dd2f35ab">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8c75c76052f8ea4965efa8efd97eb6006e0870b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_558e68b9b6f7395c4ad7687356b98c41e25000a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_f108f18e9318212ddbcf1f844db4d92d0ac8683b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8df918c9333c456aafd4cfda3e63ae9a3a8e70c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARDiscovery/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f5f45867e073f9dfd4855fadf2f9d1cc400e9add">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARDiscovery-3.10.1_c2b863a73bd0268aeaa2616434f07932ba8c139a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARDataTransfer/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba43193c5a456413be0ef22a28db0177df845fad">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARDataTransfer-3.10.1_394d4b34bdb32f82e3b4f0c21a5a9c61f7deb2d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_4cb388ab60716217e188756196842000d58556fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/arsdk/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fac597e17f698efc88140883f7806f3e068051c5">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-arsdk-3.10.1_b465c67ae6c4ae981b87855651363e01f6e4959e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/.gradle/caches/modules-2/files-2.1/org.apache.sanselan/sanselan/0.97-incubator/8396778b076a2eaf62024b64f6d924e4e0095fca/sanselan-0.97-incubator.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8396778b076a2eaf62024b64f6d924e4e0095fca">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/sanselan-0.97-incubator_132082c0b2707fa5180fa98804167a97918c5c52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2d33fd4cc7468d3ec912b78039bf116c0ab79671/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_010e219c76812065c0f3ba3d6a5087823bfe34c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/.gradle/caches/modules-2/files-2.1/javax.jmdns/jmdns/3.4.1/7ba2dcf7effb5ca9b00736b2a066fff3dd01d432/jmdns-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ba2dcf7effb5ca9b00736b2a066fff3dd01d432">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/jmdns-3.4.1_6c92ff7b161af66dedafe8eaf12606ca7f9a8ffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_46db5ae418d6244f13c61d6eb59a5f6a65e849e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cfdeba1a0eeeb9b4b5780beb757303f10e434877">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9e35d49fcb5bb3f0a294df5c4f6a25c6d71cbfd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARMavlink/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4de3a9d7918f0edb8c1545e5ef1b42f32704a4dd">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARMavlink-3.10.1_d764f2e208ad718cf32c0778fc18925d0198f029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARNetworkAL/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee13411c705235141ae913094c5518902c47eb00">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARNetworkAL-3.10.1_9d4be2ea1068b3eb17ede8f2278e6cfd215b7d9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_7b5811bab82fe497ba9d546eba0f5ebdedf1c2d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libmux/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae7638eaddc95c530826bcef0ac67184f100d2cc">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libmux-3.10.1_909f0a8d56e3803075f0856b18458f2ca9518744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARStream/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cb56e7e8fe72a213781cd35fc398729896ddd00">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARStream-3.10.1_62443ffba842856b044b58c31f8eda75c718e6dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARSAL/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f7dae4d97899a17b52c5b3c2c70ba8296089627">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARSAL-3.10.1_900316edbe57577ae44b99b814ed78441f5ece3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARMedia/3.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5bfa68d384ca4d533e2bf5d1fe5c8f35edcb14bc">
+        <dex dex="/Users/airfore/Desktop/Multimedia/Project/Samples/Android/SDKSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parrot-libARMedia-3.10.1_e541273c2b672238a81fec4de66265592fccdbc5/classes.dex" />
+    </item>
+
+</items>
