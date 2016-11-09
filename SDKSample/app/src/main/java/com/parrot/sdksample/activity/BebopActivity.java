@@ -51,6 +51,20 @@ public class BebopActivity extends AppCompatActivity {
 
     }
 
+    public void autoPilot(Bundle savedInstanceState){
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_bebop);
+
+        initIHM();
+
+        Intent intent = new Intent(this, AutoPilot.class);
+        ARDiscoveryDeviceService service = intent.getParcelableExtra(DeviceListActivity.EXTRA_DEVICE_SERVICE);
+        mBebopDrone = new BebopDrone(this, service);
+        mBebopDrone.addListener(mBebopListener);
+        startActivity(intent);
+
+    }
+
     @Override
     protected void onStart() {
         super.onStart();
